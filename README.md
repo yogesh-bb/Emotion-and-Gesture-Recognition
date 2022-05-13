@@ -1,1 +1,1 @@
-# Emtion-and-Gesture-Recognition
+# Emotion-and-Gesture-Recognition
